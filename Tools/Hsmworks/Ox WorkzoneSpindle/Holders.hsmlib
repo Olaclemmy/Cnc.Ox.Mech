@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type='text/xsl' href='tool-library.xsl'?>
+<!--Use a standards compliant web browser to view this file-->
+<tool-library xmlns="http://www.hsmworks.com/xml/2004/cnc/tool-library" version="1.0" guid="{cb765b1d-8e0d-4bed-bdbc-164116985c6b}"><holder version="1.1" unit="millimeters" guid="{36955685-9115-46c9-b304-c8ae2673fcec}"><description>ER11 - WorkzoneSpindle</description><holder><section diameter="19" length="0"/><section diameter="19" length="13.2"/><section diameter="14.3" length="0"/><section diameter="14.3" length="16"/><section diameter="8" length="0"/><section diameter="8" length="3"/><section diameter="18" length="0"/><section diameter="18" length="12.3"/><section diameter="54" length="0"/><section diameter="54" length="5"/></holder></holder></tool-library>

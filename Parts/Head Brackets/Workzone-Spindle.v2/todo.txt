@@ -1,0 +1,9 @@
+## TODO
+
+1. redo feedrates / tool setup
+2. experiment with the new router using a 6mm bit / 3mm bit at 500min/min
+
+3. add note about creating a zero point before starting in case a reset is needed
+   y - 5mm is one way to create a reference point
+
+6. export svg / step files for git

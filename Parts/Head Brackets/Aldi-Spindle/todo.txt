@@ -1,0 +1,37 @@
+
+Create a version 2 using version 1
+one of the bits has split anyway so we could do with a new setup, use v2 seperate directory
+
+1. the holes are slightly undersized because of the mill not the model
+Expand the 8mm hols to 8.5mm for additional clearance
+
+2. move the 6mm hole further out so we can drill it without obstruction
+
+4. add a bracket / support for the proximity sensor underneath
+outer edge of the support should be 30mm away from the surface of the bottom bracket
+
+5. change drill holes to 3mm
+
+6. we need drill holes into the part we're attaching to
+
+7. remove one of the stick up supports (cylinder)
+so that there's only one on the right hand side
+
+8. bring the router further forward a bit so we can access the fixing screws using an allan key
+
+9. add note about creating a zero point before starting in case a reset is needed
+y - 5mm is one way to create a reference point
+
+9. experiment with the new router using a 6mm bit / 3mm bit at 500min/min
+
+10. making the large circle the router fits into slightly larger is an option
+this might be due to undersizing of the original dremmel bit so I need to measure up first
+
+11. The back plate could do with being longer to allow removal of the router without taking off the back support
+12. also the back plate needs a bit trimming from the back to alow the mount to go higher if needed
+
+13. recommend those t nuts with spring loaded balls in
+
+12. the spindle extends 50mm from the bracket base bottom
+6mm bit extends 35mm beyond that
+i found its best to lower the z axis to its lowest point, then set the bottom of the bracket 50mm above that

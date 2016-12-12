@@ -1,0 +1,3 @@
+[submodule "Lib/CAD.Solidworks.Parts"]
+	path = Lib/CAD.Solidworks.Parts
+	url = https://github.com/grbd/CAD.Solidworks.Parts.git
