@@ -1,0 +1,2 @@
+I've set the zero point for x and y
+-10mm on the y axis 0mm x axis with 3mm bit

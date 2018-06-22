@@ -9,6 +9,16 @@ just because this is what i had spare at the time
 
 ## TODO
 
+### Motor cover
+
+  * https://www.thingiverse.com/thing:1002246/files
+
+### Z Axis End stop
+
+I need to merge in a design between the Z Axis End stop and the cable chain
+
+
+
 ### Parts
 
 For the motor mount, typically the brackets for 2.2Kw motors are about 12mm thick, which is the same as the mdf I'm using
