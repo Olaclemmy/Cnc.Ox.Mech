@@ -17,6 +17,11 @@ just because this is what i had spare at the time
 
 I need to merge in a design between the Z Axis End stop and the cable chain
 
+### Spindle gear down
+
+consider a 1/8 belt driven gear down of the spindle for milling metal
+
+
 
 
 ### Parts
